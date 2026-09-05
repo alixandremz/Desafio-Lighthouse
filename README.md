@@ -121,7 +121,3 @@ python respostas/build_relatorio.py
 > **Nota:** os scripts usam caminhos absolutos (`/home/alixandremz/lighthouse/...`). Ajuste as variáveis `CSV_DIR`/`CSV`/`OUT` no topo de cada arquivo antes de rodar em outra máquina.
 
 ---
-
-## Autor
-
-[Alexandre MZ](https://github.com/alixandremz)
