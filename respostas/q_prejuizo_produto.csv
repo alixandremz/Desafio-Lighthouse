@@ -1,0 +1,421 @@
+product_id,name,refund_total,n_devolucoes,motivo_principal
+449,Bússola de Bordo 8282,58380.75,2,Cliente desistiu da compra
+77,Bateria Náutica 1945,54128.17,5,Cliente desistiu da compra
+14,Defensa Náutica 1161,52505.59,4,Cliente desistiu da compra
+197,Motor de Popa 2175,52231.6,4,Cliente desistiu da compra
+254,Bússola de Bordo 7825,50446.18,10,Compra duplicada
+406,Motor de Popa 6404,48541.65,6,Produto avariado no transporte
+168,Âncora Bruce 7525,44893.05000000001,4,Produto com defeito de fábrica
+88,Tinta Antifouling 6853,44852.6,5,Item não corresponde à descrição
+111,Sonar Transducer 5950,42909.97,7,Produto com defeito de fábrica
+121,GPS Plotter 1152,42828.0,4,Tamanho/cor incorretos
+442,Motor de Popa 8825,40412.01,6,Cliente desistiu da compra
+170,Bateria Náutica 834,40357.42,5,Tamanho/cor incorretos
+297,Tinta Antifouling 9136,37651.630000000005,2,Cliente desistiu da compra
+201,Sonar Transducer 2387,37202.869999999995,6,Compra duplicada
+389,Motor de Popa 5331,36695.090000000004,8,Compra duplicada
+451,Cabo Náutico 5416,36041.39,6,Tamanho/cor incorretos
+114,Tinta Antifouling 3228,35991.049999999996,6,Produto com defeito de fábrica
+340,GPS Pltoter 3205,35658.72,4,Cliente desistiu da compra
+308,Motor de Popa 1540,35478.62,6,Cliente desistiu da compra
+411,Motor de Popa 684,35267.89,3,Compra duplicada
+66,TBD,34902.17,5,Item não corresponde à descrição
+159,GPS Plotter 2508,34821.08,3,Produto com defeito de fábrica
+322,Bateria Náutica 2619,34563.149999999994,2,Produto com defeito de fábrica
+394,Sonar Transducer 2625,33158.7,6,Produto avariado no transporte
+395,Vela Mestra 9165,33025.33,3,Compra duplicada
+490,Colete Salva-Vidas 3881,32976.8,3,Cliente desistiu da compra
+53,Sonar Transducer 6909,32887.46,5,Item não corresponde à descrição
+428,Sonar Transducer 8490,32844.43,3,Compra duplicada
+499,Âncora Bruce 3938,31542.800000000003,2,Produto avariado no transporte
+259,Bússola de Bordo 5451,31392.410000000003,4,Cliente desistiu da compra
+154,Hélice de Alumínio 549,31338.3,4,Cliente desistiu da compra
+286,Bússola de Bordo 7461,31264.42,5,Produto com defeito de fábrica
+408,Sonar Transducer 7193,31202.5,9,Tamanho/cor incorretos
+466,Bússola de Bordo 1900,30776.49,5,Compra duplicada
+50,Vela Mestra 1577,30656.44,3,Compra duplicada
+291,GPS Plotter 4422,30640.21,2,Cliente desistiu da compra
+244,Sonar Transducer 6595,30355.88,2,Compra duplicada
+126,Hélice de Alumínio 9713,30238.3,5,Cliente desistiu da compra
+344,Âncora Bruce 3286,29970.440000000002,5,Compra duplicada
+42,Tinta Antifouling 503,29805.600000000002,2,Cliente desistiu da compra
+146,Cabo Náutico 7323,28879.02,3,Produto com defeito de fábrica
+495,Sonar Transducer 4154,28749.899999999998,2,Item não corresponde à descrição
+303,Bússola de Bordo 7024,28360.68,3,Item não corresponde à descrição
+338,Cabo Náutico 5724,27946.56,3,Compra duplicada
+34,Defensa Náutica 5959,27750.24,4,Produto avariado no transporte
+445,Hélice de Alumínio 9779,27743.36,2,Cliente desistiu da compra
+132,Tinta Antifouling 7287,26978.16,1,?
+295,Cabo Náutico 2105,26669.58,5,CLIENTE DESISTIU DA COMPRA
+462,Hélice de Alumínio 1260,26590.520000000004,3,Tamanho/cor incorretos
+9,Tinta Antifouling 874,26428.02,4,Item não corresponde à descrição
+432,Defensa Náutica 2623,26426.33,6,Produto avariado no transporte
+288,Vela Mestra 5566,25967.42,4,Compra duplicada
+234,Defensa Náutica 417,25612.8,4,Produto com defeito de fábrica
+272,Cabo Náutico 4571,25574.72,4,Tamanho/cor incorretos
+331,Bateria Náutica 5936,25051.92,5,Compra duplicada
+294,Vela Mestra 5034,24850.66,4,Cliente desistiu da compra
+174,Bússola de Bordo 755,24754.82,6,Produto avariado no transporte
+276,GPS Plotter 4567,24592.349999999995,3,Compra duplicada
+283,Defensa Náutica 3209,24489.58,2,Compra duplicada
+333,Bússola de Bordo 180,24412.71,4,Cliente desistiu da compra
+405,Bateria Náutica 9124,24398.760000000002,3,Cliente desistiu da compra
+100,Defensa Náutica 2321,24394.81,5,Item não corresponde à descrição
+311,GPS Plotter 2249,24179.440000000002,9,Produto avariado no transporte
+232,Hélice de Alumínio 5784,24095.1,4,Cliente desistiu da compra
+62,Defensa Náutica 3549,23908.059999999998,7,Compra duplicada
+279,Vela Mestra 8447,23626.480000000003,4,Item não corresponde à descrição
+374,Âncora Bruce 9527,23611.170000000002,6,Cliente desistiu da compra
+33,Hélice de Alumínio 7117,23593.71,4,Compra duplicada
+250,Hélice de Alumínio 8577,22780.98,1,Compra duplicada
+260,Cliente Genérico,22696.079999999998,4,Cliente desistiu da compra
+482,GPS Plotter 6316,22638.57,3,Compra duplicada
+101,Defensa Náutica 3482,22402.32,2,Produto avariado no transporte
+468,Tinta Antifouling 6054,22312.550000000003,3,Cliente desistiu da compra
+171,Motor de Popa 6225,21905.15,5,Compra duplicada
+441,Colete Salva-Vidas 4674,21833.43,2,Cliente desistiu da compra
+359,Hélice de Alumínio 8562,21732.479999999996,2,Cliente desistiu da compra
+274,Tinta Antifouling 5779,21410.46,2,Compra duplicada
+248,Tinta Antifouling 3953,21317.87,2,Cliente desistiu da compra
+415,Bateria Náutica 6140,21256.76,1,Compra duplicada
+152,Caboo Náutico 4942,21172.48,3,Compra duplicada
+436,Bateria Náutica 6370,21098.1,1,Cliente desistiu da compra
+293,GPS Plotter 7173,20987.010000000002,3,Tamanho/cor incorretos
+357,NAO INFORMADO,20652.649999999998,5,Item não corresponde à descrição
+479,Motor de Popa 9417,20570.25,5,Cliente desistiu da compra
+71,Hélice de Alumínio 4633,20478.07,5,Produto com defeito de fábrica
+37,Âncora Bruce 3597,20393.39,5,Cliente desistiu da compra
+156,GPS Plotter 2111,20366.04,4,Compra duplicada
+377,Cabo Náutico 5117,20134.05,1,Compra duplicada
+78,Colete Salva-Vidas 8571,19952.100000000002,3,Cliente desistiu da compra
+488,Bateria Náutica 9984,19588.600000000002,2,Item não corresponde à descrição
+370,Tinta Antifouling 5865,19500.300000000003,1,Cliente desistiu da compra
+243,Bússola de Bordo 994,19153.44,4,Cliente desistiu da compra
+92,Sonar Transducer 1236,19119.92,3,Cliente desistiu da compra
+399,Hélice de Alumínio 9811,18634.34,3,Compra duplicada
+266,Bússola de Bordo 9356,18555.11,2,Item não corresponde à descrição
+369,Hélice de Alumínio 393,18474.7,3,Compra duplicada
+227,Colete Salva-Vidas 3392,18348.3,1,Compra duplicada
+388,Cabo Náutico 8945,18303.489999999998,3,Item não corresponde à descrição
+32,Defensa Náutica 793,17753.6,4,Cliente desistiu da compra
+439,Motor de Popa 1376,17597.99,5,Tamanho/cor incorretos
+135,GPS Plotter 3319,17584.68,3,Produto avariado no transporte
+223,GPS Plotter 582,17431.199999999997,1,
+237,Cabo Náutico 9307,17380.8,3,Cliente desistiu da compra
+251,Motor de Popa 6346,17179.85,5,Item não corresponde à descrição
+453,Motor de Popa 8838,17163.48,3,Cliente desistiu da compra
+73,Hélice de Alumínio 3700,16805.2,2,Cliente desistiu da compra
+289,Motor de Popa 8515,16718.809999999998,4,Produto avariado no transporte
+271,Tinta Antifouling 5976,16552.5,2,Tamanho/cor incorretos
+216,Âncora Bruce 1018,16471.35,3,Compra duplicada
+284,Bússola de Bordo 7525,16450.28,3,Compra duplicada
+301,Bússola de Bordo 4621,16343.849999999999,4,Produto avariado no transporte
+444,Hélice de Alumínio 4479,16340.060000000001,2,Produto avariado no transporte
+167,GPS Plotter 2659,16301.28,4,Item não corresponde à descrição
+492,Bateria Náutica 4361,16008.079999999998,2,Produto com defeito de fábrica
+304,Hélice de Alumínio 7333,15900.52,4,Cliente desistiu da compra
+459,Vela Mestra 9743,15799.8,2,Cliente desistiu da compra
+235,GPS Plotter 1842,15756.369999999999,3,Item não corresponde à descrição
+67,Sonar Transducer 3474,15739.38,3,Cliente desistiu da compra
+183,Cabo Náutico 394,15719.16,3,Cliente desistiu da compra
+151,Hélice de Alumínio 7225,15344.88,2,Item não corresponde à descrição
+115,Bateria Náutica 8635,15285.850000000002,4,Outros
+44,Motor de Popa 9645,15006.28,2,Produto com defeito de fábrica
+500,Motor de Popa 7932,14977.96,6,Tamanho/cor incorretos
+127,Defensa Náutica 6521,14964.84,4,Cliente desistiu da compra
+222,GPS Plotter 4088,14821.869999999999,3,Compra duplicada
+469,Motor de Popa 9450,14637.5,2,Item não corresponde à descrição
+431,Hélice de Alumínio 571,14599.89,3,Cliente desistiu da compra
+327,Sonar Transducer 4970,14500.53,3,Item não corresponde à descrição
+118,Vela Mestra 5825,14404.560000000001,4,Item não corresponde à descrição
+329,Colete Salva-Vidas 3098,14334.2,4,Item não corresponde à descrição
+409,Hélice de Alumínio 9928,14218.28,1,Cliente desistiu da compra
+80,Hélice de Alumínio 6964,14070.85,5,Cliente desistiu da compra
+382,Cabo Náutico 4851,14057.64,2,Compra duplicada
+379,Bateria Náutica 3343,13691.26,4,Item não corresponde à descrição
+410,Vela Mestra 207,13681.400000000001,3,Cliente desistiu da compra
+455,Defensa Náutica 497,13672.96,5,Cliente desistiu da compra
+96,GPS Plotter 5928,13553.34,4,Tamanho/cor incorretos
+103,GPS Plotter 3183,13328.189999999999,2,Produto avariado no transporte
+179,Bateria Náutica 4055,13283.73,4,Cliente desistiu da compra
+144,Vela Mestra 7171,13154.84,5,Cliente desistiu da compra
+191,Bússola de Bordo 8959,12840.75,4,Produto avariado no transporte
+417,Bússola de Bordo 6310,12803.21,5,Produto avariado no transporte
+496,Bateria Náutica 6054,12663.89,2,Produto avariado no transporte
+221,Sonar Transducer 4498,12519.82,4,Compra duplicada
+208,Motor de Popa 9560,12265.61,3,Cliente desistiu da compra
+17,GPS Plotter 3436,12233.48,2,Cliente desistiu da compra
+366,Bússola de Bordo 1762,12108.18,4,Produto avariado no transporte
+414,Âncora Bruce 5302,12064.65,2,Cliente desistiu da compra
+481,Bússola de Bordo 2683,11858.52,2,Compra duplicada
+361,Bússola de Bordo 3152,11675.23,3,Compra duplicada
+106,Hélice de Alumínio 2016,11645.630000000001,5,Produto avariado no transporte
+196,Colete Salva-Vidas 9616,11567.47,3,Produto com defeito de fábrica
+476,Vela Mestra 5689,11548.800000000001,2,Cliente desistiu da compra
+385,GPS Plotter 5137,11507.6,2,Compra duplicada
+137,Motor de Popa 8544,11454.730000000001,2,Cliente desistiu da compra
+70,Motor de Popa 1845,11421.739999999998,3,Tamanho/cor incorretos
+236,Bateria Náutica 9272,11357.82,1,Produto avariado no transporte
+384,Bateria Náutica 684,11262.5,5,Produto avariado no transporte
+49,Bússola de Bordo 5407,11138.12,3,Compra duplicada
+28,Colete Salva-Vidas 1890,11122.52,3,Cliente desistiu da compra
+342,asdf,11068.650000000001,2,Compra duplicada
+23,Âncora Bruce 4975,11060.16,3,Cliente desistiu da compra
+350,Motor de Popa 1007,10962.88,2,Cliente desistiu da compra
+345,Vela Mestra 1741,10937.44,2,Item não corresponde à descrição
+59,Bateria Náutica 8789,10480.460000000001,5,Cliente desistiu da compra
+380,Sonar Transducer 8538,10405.71,3,Compra duplicada
+86,GPS Plotter 4446,10372.21,5,Cliente desistiu da compra
+464,GPS Plotter 9584,10269.56,3,Cliente desistiu da compra
+498,GPS Plotter 7720,10135.26,4,Cliente desistiu da compra
+229,Bateria Náutica 5653,10116.5,2,Compra duplicada
+40,Tinta Antifouling 4321,10096.2,1,Compra duplicada
+334,Tinta Antifouling 3404,9997.929999999998,2,Compra duplicada
+352,Âncora Bruce 7571,9943.89,3,Produto avariado no transporte
+148,Colete Salva-Vidas 8269,9733.92,3,Compra duplicada
+438,Colete Salva-Vidas 2217,9661.24,4,Cliente desistiu da compra
+165,GPS Plotter 6840,9644.22,2,Produto avariado no transporte
+87,Vela Mestra 9995,9576.84,3,Item não corresponde à descrição
+310,Vela Mestra 8489,9568.75,4,Compra duplicada
+355,Cabo Náutico 1755,9521.28,1,Tamanho/cor incorretos
+463,Motor de Popa 8671,9512.8,3,Item não corresponde à descrição
+330,Bússola de Bordo 4659,9454.69,3,Item não corresponde à descrição
+239,Colete Salva-Vidas 326,9387.64,3,Item não corresponde à descrição
+85,Hélice de Alumínio 6549,9121.650000000001,1,Cliente desistiu da compra
+57,Vela Mestra 6445,9006.419999999998,3,Compra duplicada
+263,Tinta Antifouling 3557,8983.35,3,Item não corresponde à descrição
+360,Bateria Náutica 2558,8918.91,3,Tamanho/cor incorretos
+133,Âncora Bruce 7309,8885.51,3,Compra duplicada
+387,Cabo Náutico 6511,8860.98,6,Cliente desistiu da compra
+199,Colete Salva-Vidas 2755,8828.7,1,Produto com defeito de fábrica
+160,Tinta Antifouling 901,8707.14,2,Compra duplicada
+435,Bateria Náutica 5770,8661.0,3,Produto avariado no transporte
+253,Bússola de Bordo 3611,8645.449999999999,3,Compra duplicada
+321,Colete Salva-Vidas 7573,8629.5,2,Tamanho/cor incorretos
+328,Vela Mestra 8368,8545.45,4,Produto com defeito de fábrica
+337,Cabo Náutico 9048,8533.380000000001,5,Produto avariado no transporte
+339,Sonar Transducer 6256,8180.4,3,Item não corresponde à descrição
+95,Vela Mestra 6861,8156.67,2,Cliente desistiu da compra
+242,Âncora Bruce 7665,8024.21,5,Cliente desistiu da compra
+84,Defensa Náutica 656,7983.92,4,Item não corresponde à descrição
+261,Âncora Bruce 7226,7982.26,4,Cliente desistiu da compra
+181,Bateria Náutica 7848,7766.88,2,Produto avariado no transporte
+138,Cabo Náutico 3217,7735.939999999999,5,Item não corresponde à descrição
+54,Colete Salva-Vidas 6302,7710.24,4,Compra duplicada
+212,Sonar Transducer 594,7662.2699999999995,2,Cliente desistiu da compra
+480,Hélice de Alumínio 4260,7607.400000000001,2,Produto com defeito de fábrica
+8,Cabo Náutico 1373,7587.75,1,Cliente desistiu da compra
+400,Vela Mestra 4667,7581.299999999999,2,Compra duplicada
+129,Defensa Náutica 4517,7448.0,1,Tamanho/cor iincorretos
+68,Âncora Bruce 2455,7377.7,2,Produto avariado no transporte
+312,Âncora Bruce 831,7211.34,3,Compra duplicada
+130,Tinta Antifouling 9285,7184.210000000001,4,Cliente desistiu da compra
+473,Motor de Popa 8491,7107.63,1,Produto com defeito de fábrica
+348,Âncora Bruce 1231,7026.26,3,Tamanho/cor incorretos
+494,Motor de Popa 4783,6990.86,1,Cliente desistiu da compra
+45,Tinta Antifouling 3620,6942.36,1,—
+194,Hélice de Alumínio 7846,6903.85,3,Item não corresponde à descrição
+182,Vela Mestra 3395,6846.92,1,Tamanho/cor incorretos
+83,Bússola de Bordo 7257,6717.49,3,Cliente desistiu da compra
+475,Bússola de Bordo 2331,6697.48,1,Produto com defeito de fábrica
+448,Bateria Náutica 6898,6671.039999999999,1,Produto avariado no transporte
+474,Tinta Antifouling 8791,6666.07,4,Cliente desistiu da compra
+477,Motor de Popa 8461,6605.85,5,Produto avariado no transporte
+365,Sonar Transducer 455,6537.09,1,Cliente desistiu da compra
+203,Sonar Transducer 1690,6118.32,2,Cliente desistiu da compra
+204,Sonar Transducer 7487,6100.02,3,Compra duplicada
+440,Bússola de Bordo 553,6052.900000000001,3,Compra duplicada
+113,Hélice de Alumínio 1281,5832.72,2,Item não corresponde à descrição
+241,Defensa Náutica 5179,5755.78,1,Item não corresponde à descrição
+255,Sonar Transducer 5593,5750.360000000001,3,Item não corresponde à descrição
+89,Âncora Bruce 2687,5731.25,2,Tamanho/cor incorretos
+117,Sonar Transducer 869,5728.68,4,Compra duplicada
+39,Bateria Náutica 3427,5693.660000000001,2,Cliente desistiu da compra
+25,Bússola de Bordo 799,5691.28,2,Cliente desistiu da compra
+426,Motor de Popa 1296,5607.650000000001,2,Item não corresponde à descrição
+425,Bateria Náutica 2254,5574.7,2,Compra duplicada
+109,Âncora Bruce 8139,5482.0,1,Item não corresponde à descrição
+219,Colete Salva-Vidas 502,5437.9,4,Produto avariado no transporte
+281,Vela Mestra 8105,5432.98,1,Tamanho/cor incorretos
+257,Colete Salva-Vidas 8800,5382.4,1,Produto avariado no transporte
+392,Tinta Antifouling 3067,5366.46,4,Item não corresponde à descrição
+356,Vela Mestra 1319,5244.18,2,Compra duplicada
+51,Defensa Náutica 9969,5092.36,3,?
+323,Âncora Bruce 7053,5027.98,3,Compra duplicada
+372,Vela Mestra 500,4963.82,1,Compra duplicada
+27,Colete Salva-Vidas 7001,4886.43,2,Tamanho/cor incorretos
+24,Colete Salva-Vidas 3398,4815.54,1,Produto com defeito de fábrica
+188,Sonar Transducer 9366,4773.34,3,Cliente desistiu da compra
+155,Bateria Náutica 5487,4744.72,1,Produto com defeito de fábrica
+195,Bateria Náutica 4683,4727.92,3,Compra duplicada
+305,Bateria Náutica 5556,4670.16,1,Produto avariado no transporte
+3,Tinta Antifouling 5479,4591.0199999999995,5,Cliente desistiu da compra
+220,Tinta Antifouling 5225,4587.26,1,
+309,Motor de Popa 4415,4417.7699999999995,2,Cliente desistiu da compra
+41,Âncora Bruce 2416,4339.14,4,Compra duplicada
+52,Bateria Náutica 8532,4313.08,2,Item não corresponde à descrição
+381,Cabo Náutico 9083,4298.25,1,Compra duplicada
+2,Vela Mestra 3870,4276.0199999999995,3,Compra duplicada
+484,Hélice de Alumínio 6668,4231.52,1,Item não corresponde à descrição
+79,Sonar Transducer 5255,4161.08,2,Cliente desistiu da compra
+81,Motor de Popa 7678,4128.94,3,Item não corresponde à descrição
+268,Motor de Popa 9800,4108.26,3,Compra duplicada
+363,Motor de Popa 1279,3930.95,4,Cliente desistiu da compra
+153,Motor de Popa 9201,3892.94,3,Compra duplicada
+46,Defensa Náutica 5036,3835.65,1,Produto com defeito de fábrica
+61,Tinta Antifouling 693,3788.88,3,Cliente desistiu da compra
+47,Motor de Popa 5561,3732.21,1,Item não corresponde à descrição
+202,Cabo Náutico 5453,3648.1,3,Cliente desistiu da compra
+63,Colete Salva-Vidas 4753,3551.96,3,Produto avariado no transporte
+206,Âncora Bruce 6320,3551.71,2,Item não corresponde à descrição
+367,Sonar Transducer 4574,3519.64,1,Cliente desistiu da compra
+416,Tinta Antifouling 9500,3516.69,1,Compra duplicada
+420,Colete Salva-Vidas 6879,3514.14,2,Compra duplicada
+418,Tinta Antifouling 6959,3507.9,1,Compra duplicada
+145,Sonar Transducer 1176,3496.68,2,Produto com defeito de fábrica
+486,Genérico,3457.73,4,Produto com defeito de fábrica
+497,Colete Salva-Vidas 9810,3374.44,4,Cliente desistiu da compra
+470,Defensa Náutica 9426,3353.88,2,Compra duplicada
+485,GPS Plotter 5365,3343.54,3,Cliente desistiu da compra
+247,Defensa Náutica 7459,3309.88,4, Produto com defeito de fábrica
+413,Cabo Náutico 5471,3284.7000000000003,3,Cliente desistiu da compra
+91,Hélice de Alumínio 8603,3257.01,1,Item não corresponde à descrição
+270,Defensa Náutica 8531,3233.34,1,Compra duplicada
+209,Cabo Náutico 7626,3224.48,2,Cliente desistiu da compra
+120,Motor de Popa 8681,3206.8,1,Produto com defeito de fábrica
+93,Bússola de Bordo 2692,3134.4,1,Produto avariado no transporte
+176,Vela Mestra 1834,3121.9700000000003,5,Cliente desistiu da compra
+143,Tinta Antifouling 849,3037.79,4,Cliente desistiu da compra
+110,Hélice de Alumínio 1155,3033.43,2,Item não corresponde à descrição
+430,GPS Plotter 9763,2952.04,1,Cliente desistiu da compra
+332,Bateria Náutica 9527,2933.7,1,Tamanho/cor incorretos
+29,Defensa Náutica 3153,2871.92,1,Item não corresponde à descrição
+341,Vela Mestra 7122,2868.84,3,Tamanho/cor incorretos
+102,Bateria Náutica 3506,2847.48,3,Compra duplicada
+108,Âncora Bruce 326,2813.26,2,Compra duplicada
+446,Vela Mestra 2993,2783.63,1,Produto avariado no transporte
+198,Hélice de Alumínio 8067,2763.78,2,Produto avariado no transporte
+249,Motor de Popa 1606,2671.84,3,Item não corresponde à descrição
+173,Bateria Náutica 2569,2651.34,4,Cliente desistiu da compra
+177,GPS Plotter 8413,2616.6000000000004,4,Cliente desistiu da compra
+189,Cabo Náutico 8341,2579.96,1,Compra duplicada
+267,GPS Plotter 475,2569.02,3, Tamanho/cor incorretos
+18,Âncora Bruce 7120,2563.85,1,Produto avariado no transporte
+69,Motor de Popa 2195,2553.86,1,Compra duplicada
+187,asdf,2553.64,4,Produto avariado no transporte
+324,Colete Salva-Vidas 5603,2491.36,2,—
+16,Hélice de Alumínio 8340,2482.5,4,Produto avariado no transporte
+56,Sonar Transducer 4571,2351.02,2,Item não corresponde à descrição
+97,Motor de Popa 5396,2300.3,1,Produto avariado no transporte
+325,Âncora Bruce 5388,2181.28,1,Tamanho/cor incorretos
+224,Tinta Antifouling 1614,2118.09,2,Cliente desistiu da compra
+275,Cabo Náutico 5921,2092.58,1,Produto avariado no transporte
+320,Colete Salva-Vidas 7959,2067.7799999999997,1,Item não corresponde à descrição
+422,Sonar Transducer 7193,2066.47,1,Tamanho/cor iincorretos
+211,Cabo Náutico 9796,2038.04,1,Cliente desistiu da compra
+287,Âncora Bruce 4980,2013.71,1,Tamanho/cor incorretos
+335,Vela Mestra 8049,1954.25,3,Compra duplicada
+7,Cabo Náutico 4894,1947.08,1,Compra duplicada
+396,Bússola de Bordo 8014,1929.76,2,Compra duplicada
+318,Defensa Náutica 6926,1912.56,2,Item não corresponde à descrição
+20,GPS Plotter 7169,1813.06,1,Produto avariado no transporte
+285,Âncora Bruce 1131,1781.99,2,Cliente desistiu da compra
+231,GPS Plotter 6626,1776.02,1,Cliente desistiu da compra
+185,Motor de Popa 2690,1747.88,1,Produto avariado no transporte
+277,Cabo Náutico 3697,1699.98,4,Compra duplicada
+98,Bússola de Bordo 2458,1682.5900000000001,1,Tamanho/cor incorretos
+391,Bússola de Bordo 5574,1649.76,4,Cliente desistiu da compra
+178,Cabo Náutico 6215,1639.82,1,Compra duplicada
+10,Colete Salva-Vidas 6199,1629.17,1,Cliente desistiu da compra
+150,Defensa Náutica 2783,1528.42,2,Item não corresponde à descrição
+65,Colete Salva-Vidas 1933,1524.52,1,Cliente desistiu da compra
+383,Sonar Transducer 7919,1521.36,1,Item não corresponde à descrição
+483,Defensa Náutica 9695,1509.9,1,Tamanho/cor incorretos
+36,GPS Plotter 8951,1442.06,3,Produto avariado no transporte
+354,Bússola de Bordo 1372,1392.48,2,Produto avariado no transporte
+245,Cabo Náutico 7064,1260.21,1,Cliente desistiu da compra
+390,Defensa Náutica 3955,1245.37,1,Produto avariado no transporte
+313,Colete Salva-Vidas 3456,1228.35,2,Item não corresponde à descrição
+4,Sonar Transducer 9933,1185.69,1,Tamanho/cor incorretos
+214,Hélice de Alumínio 8208,1129.98,1,Tamanho/cor incorretos
+351,GPS Plotter 845,1110.66,1,Cliente desistiu da compra
+125,Âncora Bruce 9236,1078.86,4,Tamanho/cor incorretos
+393,Hélice de Alumínio 2428,1075.09,1,Item não corresponde à descrição
+149,Bateria Náutica 948,1028.21,1,Compra duplicada
+218,Bússola de Bordo 4059,1004.76,1,Produto com defeito de fábrica
+433,Colete Salva-Vidas 2045,951.05,1,Produto avariado no transporte
+136,Colete Salva-Vidas 9822,865.53,1,Compra duplicada
+22,Vela Mestra 7039,862.14,1,Item não corresponde à descrição
+210,João da Silva,838.45,5, Compra duplicada
+128,Cabo Náutico 7174,831.96,4,Compra duplicada 
+5,Bússola de Bordo 3641,817.89,2,Cliente desistiu da compra
+190,GPS Plotter 3107,815.59,3,Compra duplicada
+134,Cabo Náutico 5788,725.1999999999999,1,Item não corresponde à descrição
+124,Âncora Bruce 9985,694.88,1,Tamanho/cor incorretos
+401,Bússola de Bordo 4473,605.16,3,Produto avariado no transporte
+471,Colete Salva-Vidas 7201,593.56,2,Compra duplicada
+119,Motor de Popa 2911,542.8,1,Cliente desistiu da compra
+11,Hélice de Alumínio 4091,516.75,1,Produto avariado no transporte
+397,GPS Plotter 3411,431.13,1,Produto avariado no transporte
+326,Defensa Náutica 824,406.78,1,Item não corresponde à descrição
+180,Motor de Popa 1949,393.41999999999996,1,Produto avariado no transporte
+452,Tinta Antifouling 4641,391.96,1,Tamanho/cor incorretos
+358,Motor de Popa 553,391.94,1,Cliente desistiu da compra
+35,Colete Salva-Vidas 8211,381.63,1,Tamanho/cor incorretos
+398,Âncora Bruce 4713,353.21,1,Produto com defeito de fábrica
+362,Âncora Bruce 3524,349.98,1,Cliente desistiu da compra
+256,Tinta Antifouling 866,285.32,2,Compra duplicada
+423,GPS Plotter 5583,258.05,1,Compra duplicada
+76,Sonar Transducer 9995,233.91,1,Tamanho/cor incorretos
+412,Motor de Popa 6647,153.12,3,Compra duplicada
+458,Sonar Transducer 9222,134.34,1,Produto avariado no transporte
+493,Hélice de Alumínio 5003,130.33,3,Compra duplicada
+1,Motor de Popa 6014,36.65,1,Compra duplicada
+447,Cabo Náutico 2366,0.0,1,Produto variado no transporte
+158,Vela Mestra 8056,0.0,2,Cliente desistiu da compra
+315,Defensa Náutica 2949,0.0,1,Produto com defeito de fábrica
+307,Vela Mestra 6857,0.0,2,Cliente desistiu da compra
+74,Bússola de Bordo 702,0.0,1,Produto com defeito de fábrica
+299,Hélice de Alumínio 9238,0.0,1,Cliente desistiu da compra
+298,Motor de Popa 2640,0.0,2,Produto avariado no transporte
+292,Vela Mestra 7242,0.0,1,Cliente desistiu da compra
+90,Âncora Bruce 9445,0.0,1,Produto com defeito de fábrica
+278,Sonar Transducer 5470,0.0,2,Cliente desistiu da compra
+487,Bússola de Bordo 5643,0.0,1,Cliente desistiu da compra
+273,Vela Mestra 3325,0.0,2,Cliente desistiu da compra
+489,Defensa Náutica 9755,0.0,1,Compra duplicada
+6,Defensa Náutica 7487,0.0,1,Compra duplicada
+491,Bússola de Bordo 4004,0.0,1,Cliente desistiu da compra
+99,Âncora Bruce 2417,0.0,2,Item não corresponde à descrição
+265,Âncora Bruce 2284,0.0,1,Cliente desistiu da compra
+258,Bateria Náutica 5523,0.0,1,Tamanho/cor incorretos
+226,Hélice de Alumínio 3756,0.0,1,Produto com defeito de fábrica
+147,Motor de Popa 1923,0.0,1,Produto com defeito de fábrica
+105,Defensa Náutica 1200,0.0,1,Item não corresponde à descrição
+107,Tinta Antifouling 5097,0.0,1,Produto com defeito de fábrica
+233,Bateria Náutica 6163,0.0,1,Produto com defeito de fábrica
+478,Tinta Antifouling 3290,0.0,1,Compra duplicada
+316,Cabo Náutico 6564,0.0,1,Compra duplicada
+60,Vela Mestra 2410,0.0,2,Cliente desistiu da compra
+38,Sonar Transducer 7290,0.0,1,Cliente desistiu da compra
+161,Bússola de Bordo 5772,0.0,2,Cliente desistiu da compra
+19,Âncora Bruce 4405,0.0,1,Produto com defeito de fábrica
+164,Bateria Náutica 2738,0.0,1,Produto com defeito de fábrica
+166,GPS Plotter 7150,0.0,1,Produto com defeito de fábrica
+424,Colete Salva-Vidas 8874,0.0,1,outros
+457,Tinta Antifouling 8834,0.0,2,Cliente desistiu da compra
+421,Hélice de Alumínio 314,0.0,1,Item não corresponde à descrição
+131,Âncora Bruce 7031,0.0,2,Produto com defeito de fábrica
+461,Colete Salva-Vidas 3259,0.0,1,Item não corresponde à descrição
+43,Defensa Náutica 9513,0.0,1,Item não corresponde à descrição
+346,GPS Plotter 830,0.0,2,Cliente desistiu da compra
+140,Bússola de Bordo 5528,0.0,1,Produto avariado no transporte
+465,Defensa Náutica 792,0.0,2,Compra duplicada
+13,GPS Plotter 7021,0.0,1,Compra duplicada
+376,Defensa Náutica 7831,0.0,1,Produto avariado no transporte
+141,Motor de Popa 5440,0.0,1,Compra duplicada
+375,Sonar Transducer 3481,0.0,2,Item não corresponde à descrição
+55,GPS Plotter 6249,0.0,3,Compra duplicada
+364,Vela Mestra 4634,0.0,1,Item não corresponde à descrição
+349,Bateria Náutica 5090,0.0,1,Produto avariado no transporte
+368,Cabo Náutico 7039,0.0,1,Produto com defeito de fábrica
